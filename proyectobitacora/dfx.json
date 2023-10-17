@@ -1,0 +1,13 @@
+{
+    "canisters": {
+        "proyectobitacora": {
+            "type": "custom",
+            "main": "src/index.ts",
+            "candid": "src/index.did",
+            "build": "npx azle proyectobitacora",
+            "wasm": ".azle/proyectobitacora/proyectobitacora.wasm",
+            "gzip": true
+        }
+    }
+}
+
