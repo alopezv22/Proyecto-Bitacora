@@ -1,6 +1,8 @@
 # proyectobitacora
 
-Welcome to your first Azle project! This example project will help you to deploy your first canister (application) to the Internet Computer (IC) decentralized cloud. It is a simple getter/setter canister. You can always refer to [The Azle Book](https://demergent-labs.github.io/azle/) for more in-depth documentation.
+Este proyecto consiste en llevar el control de los reportes de instalaciones, modificaciones y/o adecuaciones de los controladores semaforicos, mediante la implementación de una bitacora. Así mismo se piensa en escalar con mas funcionalidades como registro de incidentes, inventarios, control de cambios, control de camaras entre otros.
+
+
 
 `dfx` is the tool you will use to interact with the IC locally and on mainnet. If you don't already have it installed:
 
